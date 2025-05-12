@@ -1,0 +1,51 @@
+Persona ID,State,Age Group,Gender,Ethnicity,Urban/Rural,Income Group,Education
+P001,Pahang,55+,Male,"('Pahang', 'chinese')",Rural,B40,Diploma
+P002,Pulau Pinang,45-54,Male,"('Pulau Pinang', 'bumi_malay')",Rural,T20,SPM
+P003,Kelantan,18-24,Female,"('Kelantan', 'bumi_malay')",Rural,M40,Degree
+P004,Sabah,55+,Female,"('Sabah', 'chinese')",Rural,B40,Diploma
+P005,Pahang,18-24,Male,"('Pahang', 'bumi_malay')",Rural,T20,SPM
+P006,W.P. Kuala Lumpur,18-24,Female,"('W.P. Kuala Lumpur', 'bumi_malay')",Rural,M40,Degree
+P007,Pulau Pinang,55+,Male,"('Pulau Pinang', 'chinese')",Rural,B40,SPM
+P008,Selangor,35-44,Male,"('Selangor', 'chinese')",Urban,B40,Degree
+P009,Perlis,45-54,Male,"('Perlis', 'bumi_malay')",Rural,T20,Diploma
+P010,Pulau Pinang,55+,Male,"('Pulau Pinang', 'bumi_malay')",Rural,B40,Degree
+P011,Kelantan,45-54,Female,"('Kelantan', 'bumi_malay')",Rural,B40,Degree
+P012,Sarawak,45-54,Female,"('Sarawak', 'chinese')",Rural,T20,Diploma
+P013,W.P. Labuan,35-44,Male,"('W.P. Labuan', 'bumi_other')",Rural,T20,SPM
+P014,Kedah,18-24,Male,"('Kedah', 'indian')",Rural,B40,Diploma
+P015,W.P. Labuan,25-34,Male,"('W.P. Labuan', 'bumi_other')",Rural,M40,SPM
+P016,Johor,25-34,Female,"('Johor', 'chinese')",Urban,M40,Degree
+P017,W.P. Labuan,45-54,Female,"('W.P. Labuan', 'chinese')",Rural,T20,Diploma
+P018,Melaka,25-34,Male,"('Melaka', 'bumi_malay')",Rural,M40,SPM
+P019,Johor,45-54,Female,"('Johor', 'bumi')",Urban,B40,SPM
+P020,Selangor,45-54,Female,"('Selangor', 'bumi_malay')",Urban,B40,Diploma
+P021,Johor,35-44,Female,"('Johor', 'chinese')",Urban,T20,SPM
+P022,Pahang,45-54,Male,"('Pahang', 'bumi_malay')",Rural,T20,Diploma
+P023,Perak,45-54,Male,"('Perak', 'indian')",Rural,B40,SPM
+P024,Melaka,35-44,Male,"('Melaka', 'chinese')",Rural,T20,SPM
+P025,Kedah,45-54,Male,"('Kedah', 'bumi_malay')",Rural,M40,SPM
+P026,Selangor,18-24,Male,"('Selangor', 'bumi_malay')",Urban,B40,Degree
+P027,Pahang,35-44,Male,"('Pahang', 'bumi_malay')",Rural,T20,SPM
+P028,Perak,25-34,Female,"('Perak', 'chinese')",Rural,M40,Diploma
+P029,Perak,35-44,Female,"('Perak', 'chinese')",Rural,T20,Diploma
+P030,Pulau Pinang,45-54,Female,"('Pulau Pinang', 'bumi_malay')",Rural,T20,SPM
+P031,Sabah,18-24,Male,"('Sabah', 'bumi')",Rural,B40,Degree
+P032,W.P. Kuala Lumpur,18-24,Male,"('W.P. Kuala Lumpur', 'bumi_malay')",Rural,M40,Diploma
+P033,Perak,18-24,Female,"('Perak', 'other_noncitizen')",Rural,M40,Degree
+P034,Terengganu,55+,Male,"('Terengganu', 'bumi_malay')",Rural,B40,Degree
+P035,Kelantan,55+,Male,"('Kelantan', 'bumi_malay')",Rural,M40,Degree
+P036,W.P. Kuala Lumpur,55+,Male,"('W.P. Kuala Lumpur', 'indian')",Rural,B40,SPM
+P037,Kelantan,35-44,Male,"('Kelantan', 'chinese')",Rural,B40,Degree
+P038,Pulau Pinang,25-34,Female,"('Pulau Pinang', 'indian')",Rural,M40,Diploma
+P039,W.P. Labuan,55+,Male,"('W.P. Labuan', 'bumi_malay')",Rural,B40,Diploma
+P040,Sabah,18-24,Male,"('Sabah', 'chinese')",Rural,B40,Degree
+P041,Selangor,55+,Male,"('Selangor', 'bumi_malay')",Urban,T20,Diploma
+P042,Sabah,18-24,Female,"('Sabah', 'other_noncitizen')",Rural,M40,Degree
+P043,W.P. Kuala Lumpur,35-44,Female,"('W.P. Kuala Lumpur', 'bumi_malay')",Rural,B40,Diploma
+P044,W.P. Putrajaya,35-44,Male,"('W.P. Putrajaya', 'bumi_malay')",Rural,B40,Degree
+P045,W.P. Labuan,18-24,Female,"('W.P. Labuan', 'bumi_other')",Rural,T20,Diploma
+P046,Kedah,55+,Male,"('Kedah', 'bumi_malay')",Rural,T20,Diploma
+P047,Kedah,45-54,Female,"('Kedah', 'bumi_malay')",Rural,T20,Diploma
+P048,Melaka,55+,Female,"('Melaka', 'bumi')",Rural,T20,Diploma
+P049,Johor,25-34,Male,"('Johor', 'bumi')",Urban,B40,SPM
+P050,Melaka,25-34,Male,"('Melaka', 'bumi_malay')",Rural,B40,Degree
